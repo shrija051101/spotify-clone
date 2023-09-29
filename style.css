@@ -20,6 +20,10 @@
   list-style-type: none;
   cursor: pointer;
 }
+.menu>ul>li>a{
+  color: beige;
+  text-decoration: none;
+}
 .playlist>ul>li>.likedsong{
   height: 35px;
   width: 35px;
